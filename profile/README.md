@@ -15,11 +15,9 @@ TODO
 > 플로깅 기록을 보다 간편하게 작성해보세요 🌎<br>
 
 <br/>
-<br/>
-
+<!-- 
 ## 🔗 배포 주소
-- [app.zupzup.shop](https://app.zupzup.shop/)
-<br>
+- [app.zupzup.shop](https://app.zupzup.shop/) -->
 
 ## ✈️ 프로젝트 결과
 
@@ -27,7 +25,7 @@ TODO
 ### 🔗 [ER Diagram](https://www.erdcloud.com/d/i2qYSu9dyHPPLoYjf)
 ### 🔗 [Figma](https://www.figma.com/file/u6TPBskjtMDknWenvkEdVs/Design?type=design&node-id=2%3A2&mode=design&t=Spsd4gU14uSrHMu0-1)
 ### 🔗 [API 명세서](https://insidious-maraca-cb4.notion.site/API-d613213651e745c68eecefd876a27803?pvs=4)
-### 🔗 [Presentation](./presentation/presentation.md)
+<!-- ### 🔗 [Presentation](./presentation/presentation.md) -->
 
 <br>
 
@@ -44,25 +42,25 @@ TODO
     <td align="center" width="60px">
             멤버
       </td>
-      <td align="center" width="130px"><img height="100px" width="100px" src="https://ifh.cc/g/m4ZZX3.jpg"/>
-            <br />김주현
+      <td align="center" width="130px"><a href="https://github.com/skydreamer21"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/95271588?v=4"/></a>
+            <br /><a href="https://github.com/skydreamer21"><b>김주현</b></a>
       </td>
-      <td align="center" width="130px"><img height="100px" width="100px" src="https://ifh.cc/g/qb3q7t.jpg"/>
-            <br />김수민
+      <td align="center" width="130px"><a href="https://github.com/kimssumin"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/96935132?v=4"/></a>
+            <br /><a href="https://github.com/kimssumin"><b>김수민</b></a>
       </td>
-      <td align="center" width="130px"><img height="100px" width="100px" src="https://ifh.cc/g/2bcZgY.jpg"/>
-            <br />박소윤
+      <td align="center" width="130px"><a href="https://github.com/soun997"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/74900921?v=4"/></a>
+            <br /><a href="https://github.com/soun997"><b>박소윤</b></a>
       </td>
-      <td align="center" width="130px"><img height="100px" width="100px" src="https://ifh.cc/g/Ms2fjb.jpg"/>
-            <br />서원호
+      <td align="center" width="130px"><a href="https://github.com/rt3310"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/66542103?v=4"/></a>
+            <br /><a href="https://github.com/rt3310"><b>서원호</b></a>
       </td>
-      <td align="center" width="130px"><img height="100px" width="100px" src="https://ifh.cc/g/fAjSw7.jpg"/>
-            <br />서지오
+      <td align="center" width="130px"><a href="https://github.com/seo-jio"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/81673820?v=4"/></a>
+            <br /><a href="https://github.com/seo-jio"><b>서지오</b></a>
       </td>
-      <td align="center" width="130px"><img height="100px" width="100px" src="https://ifh.cc/g/Zvk09L.png"/>
-            <br />안 나
+      <td align="center" width="130px"><a href="https://github.com/An0401na"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/99172832?v=4"/></a>
+            <br /><a href="https://github.com/An0401na"><b>안 나</b></a>
       </td>
-     <tr/>
+     </tr>
     <tr>
         <td align="center" width="60px">
             역할
@@ -91,43 +89,43 @@ TODO
 <br>
 
 ## 📌 주요 기능
-**현재 위치를 활용한 플로깅**
+### 📍 **현재 위치를 활용한 플로깅**
 - 메인화면에서 플로깅 바로 시작하기 가능
 - 사용자 위치 실시간 조회
 - 실시간 플로깅 경로, 플로깅 시간, 거리, 칼로리 확인 가능  
   <br>
 
-**캘린더를 활용한 기록 조회**
+### 📅 **캘린더를 활용한 기록 조회**
 - 캘린더를 활용하여 일별 기록 조회 가능
 - 각 플로깅 기록의 거리, 시간, 칼로리, 이동경로 조회 가능
 - 각 쓰레기를 통해 획득한 코인을 일일 레포트에서 확인 가능
   <br>
 
-**쓰레기통 위치 정보 제공**
+### 🗑️ **쓰레기통 위치 정보 제공**
 - 쓰레기통 공공데이터 활용
 - 일반쓰레기통과 재활용쓰레기통 분리하여 제공
 - 지도 중심좌표를 기준으로 1km 이내 쓰레기통 조회
   <br>
 
-**Trash.ai를 활용한 쓰레기 이미지 분석**
+### 🤖 **Trash.ai를 활용한 쓰레기 이미지 분석**
 - 쓰레기 이미지 분류 AI를 활용하여 주운 쓰레기 감지
 - 60여가지 카테고리를 14개로 재범주화하여 간략화
 - 측정된 쓰레기 종류의 환경오염 척도에 따라 코인 획득 가능
   <br>
 
-**나만의 캐릭터 "펭깅" 키우기**
+### 🐧 **나만의 캐릭터 "펭깅" 키우기**
 - 마이페이지에서 플로깅 펭귄 캐릭터 확인 가능
 - 플로깅 도중 주운 쓰레기를 통해 획득한 코인으로 상점에서 아이템 구매하여 캐릭터에게 제공
 - 아이템 구매시 캐릭터의 exp 증가
 - 일정 exp 증가시 레벨업 후 펭귄 캐릭터 성장
   <br>
 
-**기록 누적 레포트 제공**
+### 📋 **기록 누적 레포트 제공**
 - 누적 레포트 화면을 통해서 지금까지 플로깅 누적기록 조회
 - 총 플로깅 횟수, 플로깅시간, 총 소모 칼로리, 각 쓰레기별 주운 개수 확인 가능
   <br>
 
-**사용자 경험 향상**
+### 🎯 **사용자 경험 향상**
 - 직관적이고 사용하기 쉬운 인터페이스를 디자인하여 사용자의 참여를 유도
 - 리워드 시스템 등을 활용하여 사용자의 활동을 지속적으로 유도
 - 라이트 모드, 다크 모드 지원
@@ -138,7 +136,7 @@ TODO
 
 <br/>
 
-## 🤳 화면 설명
+## 🖥️ 화면 설명
 <table>
     <tr height="140px">
         <td align="center" ><img width="300px" src="img/로그인 페이지.png"/></td>
@@ -250,6 +248,10 @@ TODO
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 <br>
+
+## 🏛️ System Architecture
+<!-- 아키텍처 이미지 넣기 -->
+
 
 ## 👨‍💻 Structure
 ### ✍ Back-End 
