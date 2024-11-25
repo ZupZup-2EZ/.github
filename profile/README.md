@@ -6,7 +6,11 @@ TODO
 -->
 
 <!-- 대문 이미지 넣기  -->
-![](https://zupzup-plogging.s3.ap-northeast-2.amazonaws.com/zupzup_main.png)
+
+<div align="center">
+    <img width="600" src="https://github.com/user-attachments/assets/1abd583f-c876-45b9-a22d-1cb5dca84a40">
+</div>
+
 
 <br/>
 
@@ -138,11 +142,11 @@ TODO
 
 ## 🖥️ 화면 설명
 <table>
-    <tr height="140px">
-        <td align="center" ><img width="300px" src="img/로그인 페이지.png"/></td>
-        <td align="center" ><img width="300px" src="img/메인 화면.png"/></td>
-        <td align="center" ><img width="300px" src="img/키몸무게.png"/></td>
-        <td align="center" ><img width="300px" src="img/성별 출생년도.png"/></td>
+    <tr width="170">
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/10754a47-941d-4786-9dd5-4ca8c4aa306f"/></td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/f297752b-363a-44f9-a0b9-4fc92c04d2fe"/></td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/89326177-8d68-4bbd-a094-d74cbdf5b1cf"/></td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/6ed62ca8-f35d-483a-a59b-79145615df2e"/></td>
     <tr/>
     <tr>
        <td align="center">🔼 소셜 로그인</td>
@@ -154,10 +158,10 @@ TODO
 <br><br><br>
 <table>
     <tr height="140px">
-        <td align="center" ><img width="300px" src="img/플로깅 중 플로깅 정보 화면.png"/> </td>
-        <td align="center" ><img width="300px" src="img/플로깅중지도.png"/> </td>
-        <td align="center" ><img width="300px" src="img/쓰레기통 조회 화면.png"/> </td>
-        <td align="center" ><img width="300px" src="img/쓰레기 분석 화면.png"/> </td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/1672c523-47fc-498b-bd65-0a7d2f117aed"/> </td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/1a213838-49e3-47ce-affa-7fd9d73e0e26"/> </td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/90b1dfdd-6852-4029-adcf-af99f207e324"/> </td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/f0ffa5dd-6637-4eb7-a485-ffe99de966d7"/> </td>
     <tr/>
     <tr>
        <td align="center">🔼 플로깅 시간, 거리, 칼로리 측정</td>
@@ -169,10 +173,10 @@ TODO
 <br><br><br>
 <table>
     <tr height="140px">
-        <td align="center" ><img width="300px" src="img/플로깅 결과.png"/> </td>
-        <td align="center" ><img width="300px" src="img/플로깅 기록 캘린더.png"/> </td>
-        <td align="center" ><img width="300px" src="img/일별 기록 조회 페이지.png"/> </td>
-        <td align="center" ><img width="300px" src="img/일일레포트.png"/> </td>
+        <td align="center"><img width="150" src="https://github.com/user-attachments/assets/240125a5-1980-4356-80e7-edae7ed7d063"/> </td>
+        <td align="center"><img width="150" src="https://github.com/user-attachments/assets/7442f55d-d4d7-47cf-97db-badfbe3d78e4"/> </td>
+        <td align="center"><img width="150" src="https://github.com/user-attachments/assets/fca61199-6517-44f0-9aea-07ed3b101598"/> </td>
+        <td align="center"><img width="150" src="https://github.com/user-attachments/assets/28c8ba65-1ce9-41cc-8519-e864b89a52b1"/> </td>
     <tr/>
     <tr>
        <td align="center">🔼 플로깅 결과 화면</td>
@@ -184,10 +188,10 @@ TODO
 <br><br><br>
 <table>
     <tr height="140px">
-        <td align="center" ><img width="300px" src="img/마이페이지.png"/> </td>
-        <td align="center" ><img width="300px" src="img/다크.png"/> </td>
-        <td align="center" ><img width="300px" src="img/레벨업.png"/> </td>
-        <td align="center" ><img width="300px" src="img/누적레포트.png"/> </td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/27ca4444-0ab7-40bf-bee0-239d781e5e90"/> </td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/460e5687-00b3-479e-9aef-4883fc32e954"/> </td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/84ce1a2d-39d9-4b22-9edf-ccb521321296"/> </td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/f647d2a8-bfc9-4d24-9e75-3adc2fd9db0d"/> </td>
     <tr/>
     <tr>
        <td align="center">🔼 마이페이지(라이트 모드)</td>
@@ -199,10 +203,10 @@ TODO
 <br><br><br>
 <table>
     <tr height="140px">
-        <td align="center" ><img width="300px" src="./img/상점.png"/> </td>
-        <td align="center" ><img width="300px" src="./img/아이템.png"/> </td>
-        <td align="center" ><img width="300px" src="./img/image 119.png"/> </td>
-        <td align="center" ><img width="300px" src="./img/설정화면.png"/> </td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/f8210216-b1fc-4545-bac3-0d0651f2bc88"/> </td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/237f8353-7836-4df6-9d94-0c1befa98dbd"/> </td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/93601e89-a750-4931-a979-0e65a20256d6"/> </td>
+        <td align="center" ><img width="150" src="https://github.com/user-attachments/assets/7beed1bb-2484-45a2-befc-047991507244"/> </td>
     <tr/>
     <tr>
        <td align="center">🔼 상점</td>
@@ -251,6 +255,10 @@ TODO
 
 ## 🏛️ System Architecture
 <!-- 아키텍처 이미지 넣기 -->
+<div align="center">
+<img width="500" alt="Architecture" src="https://github.com/user-attachments/assets/052456ae-285a-447d-9884-a9bb550c9ad2">    
+</div>
+
 
 
 ## 👨‍💻 Structure
